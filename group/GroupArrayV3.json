@@ -1,5 +1,15 @@
 [
   {
+    "hash": "5ba07c77ecca801862c91ebd526239739f636d2e6a0c77e142006365f32a7cee",
+    "tier": "银Doro会员",
+    "expiry_date": "20251028"
+  },
+  {
+    "hash": "42ce8aa4cb774b90d7cc8ad1fbccea12ba7ecbe991c66dc606719838ef09d986",
+    "tier": "金Doro会员",
+    "expiry_date": "20251028"
+  },
+  {
     "hash": "ffbea8e7996c3f3dc9686c06b589467d2cdfbcf8c89d55380b574d78fab99861",
     "tier": "金Doro会员",
     "expiry_date": "20251028"
